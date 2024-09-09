@@ -5,7 +5,7 @@ const TelaInicial = () => {
   return (
     <View style={styles.container}>
       {/* <Image source={require('./assets/adega.jpg')} style={styles.image} /> */}
-      <Text style={styles.title}>Adega Preferida</Text>
+      <Text style={styles.title}>-- Adega Preferida -- </Text>
       <Text style={styles.subtitle}>Aqui você encontra os melhores e mais saborosos vinhos.</Text>
     </View>
   );
